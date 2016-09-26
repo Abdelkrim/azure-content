@@ -94,4 +94,4 @@ Using PowerShell would be an option for bulk enabling users.  Currently there is
 For more information on user states see [User States in Azure Multi-Factor Authentication](multi-factor-authentication-get-started-user-states.md)
 
 ## Next Steps
-Now that you have setup multi-factor authentication in the cloud, you can configure and setup your deployment.  See [Configuring Azure Multi-Factor Authentication.]
+Now that you have setup multi-factor authentication in the cloud, you can configure and setup your deployment.  See [Configuring Azure Multi-Factor Authentication.](https://azure.microsoft.com/en-us/documentation/articles/multi-factor-authentication-whats-next/)
